@@ -1,0 +1,3 @@
+/Users/andrewpham/CECS325/project-drewskis905/cmake-build-debug/CMakeFiles/advanced_shell.dir
+/Users/andrewpham/CECS325/project-drewskis905/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andrewpham/CECS325/project-drewskis905/cmake-build-debug/CMakeFiles/rebuild_cache.dir
